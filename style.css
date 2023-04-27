@@ -1,0 +1,150 @@
+ @import url('https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;1,400;1,700&family=Poppins:ital,wght@1,200&display=swap');
+
+
+  body{ 
+     background-image: linear-gradient(rgba(14, 206, 213, 0.849), rgba(4, 18, 73, 0.901));
+    }  
+
+
+ .titulo {
+    font-family: 'adika',sans-serif;
+    color: rgb(110, 105, 95);
+ }
+
+ .texto-principal {
+    font-family: 'adika', sans-serif;
+    color: rgb(13, 8, 1);
+    font-size: 18px;
+
+ 
+
+ }
+
+ .imagem-principal {
+
+    width: 500px;
+    height: 400px;
+    padding: 10px;
+ }
+
+ .titulo2 {
+    font-family: 'adika', sans-serif;
+    color: rgb(221, 214, 203);
+ }
+
+ .subtitulo2 {
+     
+    font-family: 'adika', sans-serif;
+    color: rgb(222, 214, 203);
+ }
+
+ .lista{
+     
+    font-family: 'adika', sans-serif;
+    color: rgb(223, 218, 210);
+ }
+
+ .imagem-secundaria1 {
+
+    width: 300px;
+    height:400px ;
+    padding:0px ;
+ }
+
+ .imagem-secundaria2 {
+
+    width:300px;
+    height: 400px;
+    padding: 0px;
+ }
+
+.imagem-secundaria3 {
+    width: 300px;
+    height: 400px;
+    padding: 0px;
+
+}
+.imagem-secundaria4 {
+    width: 400px;
+    height: 400px;
+    padding: 0px;
+}
+
+.container > div > img.principal{  
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+}
+.container > div > img.imagem-secundaria1 {  
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+}
+.container > div > img.imagem-secundaria2 {  
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+}
+.container > div > img.imagem-secundaria3 {  
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+}
+.container > div > img.imagem-secundaria4 {  
+    width: 100%;  
+    height: 100%;  
+    object-fit: cover;  
+}
+
+@media (max-width: 768px) {
+    .classe {background-color: blue;
+    }
+}
+/* 768 ~ 991px (md, medium) */
+@media (max-width: 992px) {
+    .classe {background-color: green;
+    }
+}
+/* 992 ~ 1199px (lg, large) */
+@media (max-width: 1200px) {
+    .classe {background-color: yellow;
+    }
+}
+/* >=1200px (xl, extra-large) */
+@media (min-width: 1201px) {
+    .classe {background-color: pink;
+    }
+}
+
+
+
+.link-imagem-1{ 
+    font-family: 'adika',sans-serif;
+    color: aliceblue;}
+.link-texto-1{
+    font-family: 'adika',sans-serif;
+    color: aliceblue;
+}
+.link-texto-2{
+    font-family: 'adika',sans-serif;
+    color: aliceblue;
+}
+.link-imagem-2{
+    font-family: 'adika',sans-serif;
+    color: aliceblue;
+}
+.link-imagem-3{
+    font-family: 'adika',sans-serif;
+    color: aliceblue;
+}
+.link-imagem-4{
+    font-family: 'adika',sans-serif;
+    color: aliceblue;
+}
+.link-imagem-5{
+    font-family: 'adika',sans-serif;
+    color: aliceblue;
+}
+
+
+
